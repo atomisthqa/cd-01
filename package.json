@@ -18,7 +18,7 @@
     "url": "https://github.com/atomisthqa/cd-01/issues"
   },
   "dependencies": {
-    "@atomist/automation-client": "^0.2.2",
+    "@atomist/automation-client": "^1.8.3-1.8-fixes.20220503134500",
     "app-root-path": "^2.0.1"
   },
   "devDependencies": {
